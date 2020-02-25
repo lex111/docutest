@@ -10,43 +10,43 @@
         <copyright>Copyright © 2020 Facebook, Inc.</copyright>
         <item>
             <title><![CDATA[Tribute to Endi]]></title>
-            <link>https://lex111.github.io/blog/2020/01/07/tribute-to-endi</link>
-            <guid>https://lex111.github.io/blog/2020/01/07/tribute-to-endi</guid>
+            <link>https://lex111.github.io/docutest/blog/2020/01/07/tribute-to-endi</link>
+            <guid>https://lex111.github.io/docutest/blog/2020/01/07/tribute-to-endi</guid>
             <pubDate>Tue, 07 Jan 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[It is with great sadness to announce that our primary external Docusaurus contributor, [Endilie Yacop Sucipto](https://github.com/endiliey) (Endi to those who knew him), [passed away](https://give.asia/campaign/help_endi_beat_cancer#/updates) over the weekend after an illness associated with his bout with cancer.]]></description>
         </item>
         <item>
             <title><![CDATA[Docusaurus 2019 Recap]]></title>
-            <link>https://lex111.github.io/blog/2019/12/30/docusaurus-2019-recap</link>
-            <guid>https://lex111.github.io/blog/2019/12/30/docusaurus-2019-recap</guid>
+            <link>https://lex111.github.io/docutest/blog/2019/12/30/docusaurus-2019-recap</link>
+            <guid>https://lex111.github.io/docutest/blog/2019/12/30/docusaurus-2019-recap</guid>
             <pubDate>Mon, 30 Dec 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[2019 was a great year for Docusaurus - we've made tremendous progress on [Docusaurus 2](https://v2.docusaurus.io/). Current Docusaurus 1 users who aren't using the translations feature can feel free to check it out and [migrate](https://v2.docusaurus.io/docs/migrating-from-v1-to-v2) to it! Otherwise we will work with you to make that happen in 2020 :)]]></description>
         </item>
         <item>
             <title><![CDATA[Happy 1st Birthday Slash!]]></title>
-            <link>https://lex111.github.io/blog/2018/12/14/Happy-First-Birthday-Slash</link>
-            <guid>https://lex111.github.io/blog/2018/12/14/Happy-First-Birthday-Slash</guid>
+            <link>https://lex111.github.io/docutest/blog/2018/12/14/Happy-First-Birthday-Slash</link>
+            <guid>https://lex111.github.io/docutest/blog/2018/12/14/Happy-First-Birthday-Slash</guid>
             <pubDate>Fri, 14 Dec 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[![First Birthday Slash](/img/docusaurus-slash-first-birthday.svg)]]></description>
         </item>
         <item>
             <title><![CDATA[Towards Docusaurus 2]]></title>
-            <link>https://lex111.github.io/blog/2018/09/11/Towards-Docusaurus-2</link>
-            <guid>https://lex111.github.io/blog/2018/09/11/Towards-Docusaurus-2</guid>
+            <link>https://lex111.github.io/docutest/blog/2018/09/11/Towards-Docusaurus-2</link>
+            <guid>https://lex111.github.io/docutest/blog/2018/09/11/Towards-Docusaurus-2</guid>
             <pubDate>Tue, 11 Sep 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[Docusaurus was [officially announced](https://docusaurus.io/blog/2017/12/14/introducing-docusaurus) over nine months ago as a way to easily build open source documentation websites. Since then, it has amassed over 8,600 GitHub Stars, and is used by many popular open source projects such as [React Native](https://facebook.github.io/react-native/), [Babel](https://babeljs.io/), [Jest](https://jestjs.io/), [Reason](https://reasonml.github.io/) and [Prettier](https://prettier.io/).]]></description>
         </item>
         <item>
             <title><![CDATA[How I Converted Profilo to Docusaurus in Under 2 Hours]]></title>
-            <link>https://lex111.github.io/blog/2018/04/30/How-I-Converted-Profilo-To-Docusaurus</link>
-            <guid>https://lex111.github.io/blog/2018/04/30/How-I-Converted-Profilo-To-Docusaurus</guid>
+            <link>https://lex111.github.io/docutest/blog/2018/04/30/How-I-Converted-Profilo-To-Docusaurus</link>
+            <guid>https://lex111.github.io/docutest/blog/2018/04/30/How-I-Converted-Profilo-To-Docusaurus</guid>
             <pubDate>Mon, 30 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[> _“Joel and I were discussing having a website and how it would have been great to launch with it. So I challenged myself to add Docusaurus support. It took just over an hour and a half. I'm going to send you a PR with the addition so you can take a look and see if you like it. Your workflow for adding docs wouldn't be much different from editing those markdown files.”_]]></description>
         </item>
         <item>
             <title><![CDATA[Introducing Docusaurus]]></title>
-            <link>https://lex111.github.io/blog/2017/12/14/introducing-docusaurus</link>
-            <guid>https://lex111.github.io/blog/2017/12/14/introducing-docusaurus</guid>
+            <link>https://lex111.github.io/docutest/blog/2017/12/14/introducing-docusaurus</link>
+            <guid>https://lex111.github.io/docutest/blog/2017/12/14/introducing-docusaurus</guid>
             <pubDate>Thu, 14 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[![Introducing Slash](/img/slash-introducing.svg)]]></description>
         </item>

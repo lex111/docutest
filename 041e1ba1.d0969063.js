@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{110:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"endi","name":"endi","count":1,"permalink":"/blog/tags/endi"}')}}]);

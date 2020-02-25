@@ -11,42 +11,42 @@
     <entry>
         <title type="html"><![CDATA[Tribute to Endi]]></title>
         <id>Tribute to Endi</id>
-        <link href="https://lex111.github.io/blog/2020/01/07/tribute-to-endi"/>
+        <link href="https://lex111.github.io/docutest/blog/2020/01/07/tribute-to-endi"/>
         <updated>2020-01-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[It is with great sadness to announce that our primary external Docusaurus contributor, [Endilie Yacop Sucipto](https://github.com/endiliey) (Endi to those who knew him), [passed away](https://give.asia/campaign/help_endi_beat_cancer#/updates) over the weekend after an illness associated with his bout with cancer.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Docusaurus 2019 Recap]]></title>
         <id>Docusaurus 2019 Recap</id>
-        <link href="https://lex111.github.io/blog/2019/12/30/docusaurus-2019-recap"/>
+        <link href="https://lex111.github.io/docutest/blog/2019/12/30/docusaurus-2019-recap"/>
         <updated>2019-12-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[2019 was a great year for Docusaurus - we've made tremendous progress on [Docusaurus 2](https://v2.docusaurus.io/). Current Docusaurus 1 users who aren't using the translations feature can feel free to check it out and [migrate](https://v2.docusaurus.io/docs/migrating-from-v1-to-v2) to it! Otherwise we will work with you to make that happen in 2020 :)]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Happy 1st Birthday Slash!]]></title>
         <id>Happy 1st Birthday Slash!</id>
-        <link href="https://lex111.github.io/blog/2018/12/14/Happy-First-Birthday-Slash"/>
+        <link href="https://lex111.github.io/docutest/blog/2018/12/14/Happy-First-Birthday-Slash"/>
         <updated>2018-12-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[![First Birthday Slash](/img/docusaurus-slash-first-birthday.svg)]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Towards Docusaurus 2]]></title>
         <id>Towards Docusaurus 2</id>
-        <link href="https://lex111.github.io/blog/2018/09/11/Towards-Docusaurus-2"/>
+        <link href="https://lex111.github.io/docutest/blog/2018/09/11/Towards-Docusaurus-2"/>
         <updated>2018-09-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Docusaurus was [officially announced](https://docusaurus.io/blog/2017/12/14/introducing-docusaurus) over nine months ago as a way to easily build open source documentation websites. Since then, it has amassed over 8,600 GitHub Stars, and is used by many popular open source projects such as [React Native](https://facebook.github.io/react-native/), [Babel](https://babeljs.io/), [Jest](https://jestjs.io/), [Reason](https://reasonml.github.io/) and [Prettier](https://prettier.io/).]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[How I Converted Profilo to Docusaurus in Under 2 Hours]]></title>
         <id>How I Converted Profilo to Docusaurus in Under 2 Hours</id>
-        <link href="https://lex111.github.io/blog/2018/04/30/How-I-Converted-Profilo-To-Docusaurus"/>
+        <link href="https://lex111.github.io/docutest/blog/2018/04/30/How-I-Converted-Profilo-To-Docusaurus"/>
         <updated>2018-04-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[> _“Joel and I were discussing having a website and how it would have been great to launch with it. So I challenged myself to add Docusaurus support. It took just over an hour and a half. I'm going to send you a PR with the addition so you can take a look and see if you like it. Your workflow for adding docs wouldn't be much different from editing those markdown files.”_]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Introducing Docusaurus]]></title>
         <id>Introducing Docusaurus</id>
-        <link href="https://lex111.github.io/blog/2017/12/14/introducing-docusaurus"/>
+        <link href="https://lex111.github.io/docutest/blog/2017/12/14/introducing-docusaurus"/>
         <updated>2017-12-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[![Introducing Slash](/img/slash-introducing.svg)]]></summary>
     </entry>
